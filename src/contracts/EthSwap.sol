@@ -1,6 +1,6 @@
 // https://eips.ethereum.org/EIPS/eip-20
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.8.3;
+pragma solidity ^0.5.0;
 
 contract EthSwap {
     string public name = 'EthSwap Instant Exchange'; 
